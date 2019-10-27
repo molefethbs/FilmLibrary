@@ -1,0 +1,10 @@
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\bin\Debug\FilmLibrary.exe.config
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\bin\Debug\FilmLibrary.exe
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\bin\Debug\FilmLibrary.pdb
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.csprojAssemblyReference.cache
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.Form1.resources
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.Properties.Resources.resources
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.csproj.GenerateResource.cache
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.exe
+C:\Users\Thabiso\Documents\Visual Studio 2017\Projects\FilmLibrary\FilmLibrary\obj\Debug\FilmLibrary.pdb
